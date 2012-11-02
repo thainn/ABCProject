@@ -60,7 +60,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
 		//thai - haitm sua lan nua
