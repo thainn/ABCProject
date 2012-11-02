@@ -63,9 +63,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		//thai
+		//thai - haitm sua lan nua
 		'password' => 'password',
-		'database' => 'database_name',
+		'database' => 'haitm sua lan nua',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
