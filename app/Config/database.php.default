@@ -60,14 +60,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		//thai - haitm sua lan nua
-		'password' => 'password',
-		'database' => 'haitm sua lan nua',
-		'prefix' => '',
-		//'encoding' => 'utf8',
+		
 	);
 
 	public $test = array(
