@@ -40,14 +40,7 @@
  * 		'mask' => 0666, // [optional] permission mask to use when creating cache files
  *	));
  *
- * APC (http://pecl.php.net/package/APC)
- *
- * 	 Cache::config('default', array(
- *		'engine' => 'Apc', //[required]
- *		'duration'=> 3600, //[optional]
- *		'probability'=> 100, //[optional]
- * 		'prefix' => Inflector::slug(APP_DIR) . '_', //[optional]  prefix every cache file with this string
- *	));
+
  *
   * Redis (http://http://redis.io/)
  *
@@ -72,6 +65,14 @@
  *		'password' => 'password', //plaintext password (xcache.admin.pass)
  *	));
  *
+ * APC (http://pecl.php.net/package/APC)
+ *
+ * 	 Cache::config('default', array(
+ *		'engine' => 'Apc', //[required]
+ *		'duration'=> 3600, //[optional]
+ *		'probability'=> 100, //[optional]
+ * 		'prefix' => Inflector::slug(APP_DIR) . '_', //[optional]  prefix every cache file with this string
+ *	));
  * Memcache (http://memcached.org/)
  *
  * 	 Cache::config('default', array(
