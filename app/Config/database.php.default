@@ -68,7 +68,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		//thai - haitm sua lan nua
 		'password' => 'password',
-		'database' => 'haitm sua lan nua',
+		'database' => 'database',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 >>>>>>> e307890103c173691933b6140ad9a4aa991ee9f4
