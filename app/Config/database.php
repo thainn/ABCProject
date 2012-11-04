@@ -61,6 +61,7 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 			
+		'haitm' => 'Database/Mysql',	
 		'haitm' => 'Database/Mysql',
 		'haitm' => 'Database/Mysql',
 		'haitm' => 'Database/Mysql',
