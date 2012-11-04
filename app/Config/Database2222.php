@@ -4,7 +4,7 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 	
-	thainn-leverages
+	thainn
 
 	);
 
