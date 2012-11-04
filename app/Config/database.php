@@ -71,6 +71,7 @@ class DATABASE_CONFIG {
 		 sss
 =======
 			
+		'TTTTThaitm' => 'Database/Mysql',
 		'haitm' => 'Database/Mysql',	
 		'haitm' => 'Database/Mysql',
 		'haitm' => 'Database/Mysql',
