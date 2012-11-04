@@ -60,6 +60,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
+<<<<<<< HEAD
 		ádasdasd
 		a d
 		á d
@@ -67,6 +68,15 @@ class DATABASE_CONFIG {
 		dá
 		 da
 		 
+=======
+			
+		'haitm' => 'Database/Mysql',	
+		'haitm' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',
+		'persistent' => false,
+
+>>>>>>> b580445e9eb2f3aa4f25333e5b8b94b5130120b2
 	);
 
 	public $test = array(
