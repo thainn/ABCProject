@@ -60,7 +60,11 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
+<<<<<<< HEAD
 	Test láº§n 1 
+=======
+Chán Quá
+>>>>>>> b8335c038d4e89b1eab2f45ee75836ece88b37d8
 	);
 
 	public $test = array(
