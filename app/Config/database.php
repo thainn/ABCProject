@@ -67,7 +67,7 @@ class DATABASE_CONFIG {
 		á 
 		dá
 		 da
-		 
+		 sss
 =======
 			
 		'haitm' => 'Database/Mysql',	
