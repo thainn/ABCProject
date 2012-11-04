@@ -4,12 +4,13 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 	
-thai leverages 5
+thai leverages 6 6 
 
 	);
 
 	public $test = array(
 		thú vị đấy 
+		AAAAAAAAAAAAA
 		
 	);
 	
@@ -17,4 +18,5 @@ thai leverages 5
 	Chẳng có gì thú vị cả hết heheheeh.
 	Chẳng có gì thú vị cả hết heheheeh.
 	Chẳng có gì thú vị cả hết heheheeh.
+	AAAAAAAA
 }
