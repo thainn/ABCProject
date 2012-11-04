@@ -60,6 +60,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
+	AAAAAAAAAAAAAAAAAAAAA
 <<<<<<< HEAD
 		ádasdasd
 		a d
