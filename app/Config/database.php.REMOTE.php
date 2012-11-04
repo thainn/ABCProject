@@ -61,6 +61,12 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 <<<<<<< HEAD
+ Sua lan 1
+=======
+<<<<<<< HEAD
+	Thai Khong Biet Lam Nua
+=======
+<<<<<<< HEAD
 	AAAAAAAAAAAA
 	AAAAAAAAAAAA
 =======
@@ -84,6 +90,8 @@ class DATABASE_CONFIG {
 
 >>>>>>> b580445e9eb2f3aa4f25333e5b8b94b5130120b2
 >>>>>>> 98486e0219dcc97dedbf1ada15f966aab0a3ef2a
+>>>>>>> 0c3a7e4e689c5fe74c081d05dfa7d36f2561a622
+>>>>>>> bbeb435434614c7d1acb6ddfc155ba87e50af144
 	);
 
 	public $test = array(
