@@ -10,7 +10,11 @@ thai leverages 5 5
 
 	public $test = array(
 		thú vị đấy 
+		
 	);
 	
+	Chẳng có gì thú vị cả hết heheheeh.
+	Chẳng có gì thú vị cả hết heheheeh.
+	Chẳng có gì thú vị cả hết heheheeh.
 	Chẳng có gì thú vị cả hết heheheeh.
 }
