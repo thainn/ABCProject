@@ -60,22 +60,13 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-		
-=======
-		'haitm' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		//thai - haitm sua lan nua
-		'password' => 'password',
-		'database' => 'database',
-		'prefix' => '',
-		//'encoding' => 'utf8',
->>>>>>> e307890103c173691933b6140ad9a4aa991ee9f4
->>>>>>> 6f56057608a2eaca859ffd2acd6e3e0f7b5e4585
+		ádasdasd
+		a d
+		á d
+		á 
+		dá
+		 da
+		 
 	);
 
 	public $test = array(
