@@ -60,7 +60,7 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		Test lan 2 
+	Thai Khong Biet Lam Nua
 	);
 
 	public $test = array(

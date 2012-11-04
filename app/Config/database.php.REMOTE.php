@@ -60,7 +60,30 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		Test lan 2 
+<<<<<<< HEAD
+	AAAAAAAAAAAA
+	AAAAAAAAAAAA
+=======
+	AAAAAAAAAAAAAAAAAAAAA
+<<<<<<< HEAD
+		ádasdasd
+		a d
+		á d
+		á 
+		dá
+		 da
+		 sss
+=======
+			
+		'TTTTThaitm' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',	
+		'haitm' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',
+		'haitm' => 'Database/Mysql',
+		'persistent' => false,
+
+>>>>>>> b580445e9eb2f3aa4f25333e5b8b94b5130120b2
+>>>>>>> 98486e0219dcc97dedbf1ada15f966aab0a3ef2a
 	);
 
 	public $test = array(
