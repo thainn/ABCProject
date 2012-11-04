@@ -61,7 +61,7 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 
-	Test lần 1 
+	Test lần 2
 
 	);
 
