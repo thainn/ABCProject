@@ -4,7 +4,7 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 	
-thai leverages 5
+thai leverages 5 5
 
 	);
 
