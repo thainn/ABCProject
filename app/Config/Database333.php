@@ -14,7 +14,11 @@ class DATABASE_CONFIG {
 
 	public $test = array(
 		thú vị đấy 
+		
 	);
 	
+	Chẳng có gì thú vị cả hết heheheeh.
+	Chẳng có gì thú vị cả hết heheheeh.
+	Chẳng có gì thú vị cả hết heheheeh.
 	Chẳng có gì thú vị cả hết heheheeh.
 }
